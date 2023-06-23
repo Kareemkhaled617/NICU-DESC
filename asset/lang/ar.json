@@ -1,0 +1,19 @@
+{
+    "signIn":"تسجيل الدخول",
+    "signUp":"إنشاء حساب",
+    "weHope":"نتمني لكم صحة جيدة",
+    "LS":"خدمة الموقع",
+    "LSNA":"خدمة الموقع غير متاحة",
+    "currentLocation":"الموقع الحالي",
+    "NIconnection":"غير متصل بالانترنت",
+    "governmentHospital":"مستشفي حكومي",
+    "charityCenter":"مركز خيري",
+    "specialCenter":"مركز خاص",
+    "forgetPass":"هل نسيت كلمة السر؟",
+    "email":"الإيميل",
+    "pass":"كلمة السر",
+    "name":"الاسم",
+    "phoneNumber":"رقم الهاتف",
+    "welcome":"مرحبا بك ..."
+
+}

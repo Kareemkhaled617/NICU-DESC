@@ -1,0 +1,19 @@
+{
+    "signIn":"SIGN IN",
+    "signUp":"SIGN UP",
+    "weHope":"We Hope To Be Healthy",
+    "LS":"Location Service",
+    "LSNE":"Location Service Not Enabled",
+    "currentLocation":"Current Location",
+    "NIconnection":"No Internet Connection",
+    "governmentHospital":"Government Hospital",
+    "charityCenter":"Charity Center",
+    "specialCenter":"Special Center",
+    "forgetPass":"forget your password?",
+    "email":"Email",
+    "pass":"Password",
+    "name":"Name",
+    "phoneNumber":"Phone Number",
+    "welcome":"Welcome ..."
+
+}
